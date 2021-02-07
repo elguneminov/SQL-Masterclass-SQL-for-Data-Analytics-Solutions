@@ -1,1 +1,1 @@
-# SQL Masterclass-SQL for Data Analytics Solutions
+# SQL Masterclass - SQL for Data Analytics Solutions
